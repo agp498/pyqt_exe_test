@@ -1,4 +1,8 @@
 __pycache__/*
+build/*
+dist/*
+
+pyqt_exe_test.spec
 
 # C++ objects and libs
 *.slo
